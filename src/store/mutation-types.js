@@ -1,0 +1,3 @@
+export const ARRIVED_CUSTOMER = 'ARRIVED_CUSTOMER';
+export const PRODUCT = 'PRODUCT';
+export const ORDER_CUSTOMER = 'ORDER_CUSTOMER';
